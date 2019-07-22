@@ -18,7 +18,7 @@ $ npm start
 
 That's all! Your server should be available with address like this:
 ```
-http://<IP_ADDRESS_OF_YOUR_PI>:3000
+http://<IP_ADDRESS_OF_YOUR_SERVER>:3000
 ```
 
 Check the [camera module](https://github.com/miwaniec/socket-camera) and [website client example](https://github.com/miwaniec/socket-camera-client).
