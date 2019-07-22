@@ -1,0 +1,20 @@
+{
+    "name": "socket-camera-server",
+    "version": "0.1.0",
+    "description": "Preview the image from the ip camera from any website using socket.io - server",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Marcin Iwaniec <miwaniec@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/miwaniec/socket-camera-server"
+    },
+    "homepage": "https://github.com/miwaniec/socket-camera",
+    "dependencies": {
+        "socket.io": "^2.2.0"
+    }
+}
