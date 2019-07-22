@@ -6,14 +6,14 @@ This repository is a server modul, should be install on server with public ip wi
 
 ## Installation
 ```bash
-$ git clone https://github.com/miwaniec/socket-camera-server.git
-$ cd socket-camera-server
-$ npm install
+git clone https://github.com/miwaniec/socket-camera-server.git
+cd socket-camera-server
+npm install
 ```
 
 ## Running
 ```bash
-$ npm start
+npm start
 ```
 
 That's all! Your server should be available with address like this:
